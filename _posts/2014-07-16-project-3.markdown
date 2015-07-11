@@ -1,0 +1,50 @@
+---
+title: Robotics Society
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: robotics.png
+alt: image-alt
+project-date: 2010-2014
+organization: PEC Robotics Society, PEC University of Technology
+category: Robotics, Image Processing, Computer Vision, Automation
+description: <i>Robotics Competitions</i>
+
+---
+
+During my undergraduation years, I participated in a number of robotics competitions held across the nation. Due to my excellent performance in these competitions, I was awarded __Certificate of Appreciation__ in 2012, __Certificate of Excellence__ in 2013 and __College Color__ in 2014 by PEC University of Technology. 
+
+# `Techkriti` -- IIT Kanpur
+
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lpytPPTfqLo"></iframe>
+</div> 
+
+My team won first position in robotics and image processing competition held at IIT Kanpur. __We were the only team to finish the entire grid.__
+
+_Team Members (in alphabetical order) - Bhopesh Bassi, Bikramjot Singh Hanzra, Suchit Jain_ 
+
+# `Apogee` -- BITS Pilani
+
+
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VHWCaINo5LE"></iframe>
+</div> 
+
+My team won first position in robotics and image processing competition held at BITS Pilani. __Only 2 teams could finish the entire grid.__
+
+_Team Members (in alphabetical order) - Bhopesh Bassi, Bikramjot Singh Hanzra, Suchit Jain_ 
+
+# `Shastra` -- IIT Madras 
+
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ztRQVsm4nmI"></iframe>
+</div> 
+
+My team won second position in industrial automation competition held at IIT Madras.
+
+__Team Members (in alphabetical order) - Abhinav Sharma, Abhishek Mehta, Anshul Bansal, Bikramjot Singh Hanzra, Naman Kumar__
+

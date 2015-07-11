@@ -1,0 +1,75 @@
+---
+title: Research
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: research.png
+alt: image-alt
+project-date: Feb - July 2014 and Dec 2014
+organization: ESIGELEC-IRSEEM
+category: Computer Vision, Image Processing
+description: RESEARCH INTERNSHIP
+---
+
+# Automatic Cameraman for Dynamic Video Acquisition of Football Match
+
+> The paper associated with this project was presented at 2013 IEEE International Conference on Image Information Processing. This paper was also awarded the __best paper award__ in the conference.
+
+<a target="_blank" href="files/paper.pdf" class="btn btn-lg btn-primary">
+    <i class="fa fa-download"></i> Download Paper
+</a>
+
+<pre class="text-left"><code>
+@inproceedings{
+    hanzra2013automatic,
+    title={Automatic cameraman for dynamic video acquisition of football match},
+    author={Hanzra, Bikramjot Singh and Rossi, Romain},
+    booktitle={Image Information Processing (ICIIP), 2013 IEEE Second International Conference on},
+    pages={142--147},
+    year={2013},
+    organization={IEEE}
+    }
+</code></pre>
+
+### Abstract 
+
+---
+
+<img  src="img/posts/research/camera.png" class="img-responsive img-centered" alt="System Setup">
+
+_System Setup_
+
+---
+
+A system was described for dynamic video acquisition of a football match. The system used 2 cameras, a static and a dynamic (Pan Tilt Zoom) camera. The raw frames from the static camera were processed to track player positions in the field. The tracking data was then used to control a PTZ Camera that focussed on the area of maximum player density.
+
+---
+
+<img  src="img/posts/research/flowchart.png" class="img-responsive img-centered" alt="Flowchart">
+
+_Flowchart_
+
+---
+
+A background subtraction based approach was used for foreground segmentation to extract the player blobs. An adaptive Gaussian Mixture Model (GMM) was used for background subtraction. The binary foreground mask was then filtered using morphological operations to remove small objects and fill small holes. Canny Edge Detector was then used to obtain the edge pixels and then an OpenCV implementation of contour extraction was done on the binary edge pixel mask to obtain individual player contours. Each player contour was a collection of the edge pixels of the player. Then using these contours, the player positions relative to the image plane were tracked and were used for further data analysis.
+
+Data analysis included classifying the players into their respective teams (a statistical and unsupervised learning based approach was used), a 2D top view representation of the players representing the players position in the field (perspective transformation was used), offside line calculation and predicting the attacking team. Occlusion detection was also done to detect
+occlusions between players .
+
+---
+
+<img  src="img/posts/research/occulusion.png" class="img-responsive img-centered" alt="Player Classification">
+
+_Player Classification_
+
+---
+
+The last step of the algorithm was to use the player positions to predict the area where the the PTZ camera should focus upon. There was a linear mapping between the PTZ camera regions and the static camera regions. The area which had the maximum number of players was selected as the region of interest and the Pan, Tilt and Zoom values for that particular region were send to the PTZ camera to change its orientation and zoom to these values and then video acquisition from the PTZ camera was done. Since the PTZ camera used was an IP camera, HTTP messages were used to communicate to the PTZ camera. libcurl library was used to send these HTTP messages. Other miscellaneous work successfully completed included a library for cali- brating the camera’s to remove camera distortions and a library for stitching images from different cameras having sufficiently overlapping regions between themselves. A cross-platform Graphical User Interface (GUI) using Qt framework was also created to make it easy for the user to use the system.
+
+---
+
+<img  src="img/posts/research/ptz.png" class="img-responsive img-centered" alt="PTZ Camera">
+
+_PTZ Camera_
+
+---

@@ -1,0 +1,77 @@
+---
+title: GitHub
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: github.png
+alt: image-alt
+project-date: September 2014 - <i>present</i>
+Organization: Personal Projects
+category: Computer Vision, Machine Learning
+description: Open Source Coding
+---
+
+# Object Detector Framework 
+
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/SPXocFBjr70"></iframe>
+</div> 
+
+Object Detection Framework written in Python using HOG as descriptor and Linear SVM as classifier.
+
+<a target="_blank" href="https://github.com/bikz05/object-detector" class="btn btn-primary btn-primary">
+    <i class="fa fa-github"></i> View on GitHub
+</a>
+
+# Image Recognition using Bag of Words approach
+
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Ba_4wOpbJJM"></iframe>
+</div> 
+
+`Python` Implementation of Bag of Words for Image Recognition using `OpenCV` and `sklearn`.
+
+<a target="_blank" href="https://github.com/bikz05/bag-of-words" class="btn btn-primary btn-primary">
+    <i class="fa fa-github"></i> View on GitHub
+</a>
+
+# Handwritten Digit Recognition
+
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ur6JY2Hl-MM"></iframe>
+</div> 
+
+Handwritten Digit Recognition using `OpenCV`, `sklearn` and `Python`.
+
+<a target="_blank" href="https://github.com/bikz05/digit-recognition" class="btn btn-primary btn-primary">
+    <i class="fa fa-github"></i> View on GitHub
+</a>
+
+# Texture Matching using Local Binary Patterns (LBP)
+
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lIgqjRe88_s"></iframe>
+</div> 
+
+Texture Matching using Local Binary Patterns (LBP) written in `Python` using `OpenCV` and `sklearn`.
+
+<a target="_blank" href="https://github.com/bikz05/texture-matching" class="btn btn-primary btn-primary">
+    <i class="fa fa-github"></i> View on GitHub
+</a>
+
+# Face Recognition and Face Detection
+
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/DP9KX8OaHLw"></iframe>
+</div> 
+
+Face Recognition using `OpenCV` written in `Python`.
+
+<a target="_blank" href="bit.ly/1xpWhdy" class="btn btn-primary btn-primary">
+    <i class="fa fa-download"></i> Download Code
+</a>

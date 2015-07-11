@@ -1,0 +1,45 @@
+---
+title: Final Year Project
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: capstone.png
+alt: image-alt
+project-date: 2013-2014
+organization: PEC University of Technology
+category: Robotics, Computer Vision, Machine Learning
+description: Final Year Project
+---
+
+In my final year project -- __Object Transportation Task by a Mobile Robot following a Human__, I worked under Dr. Neelam Rup Prakash. My team partner was Bhopesh Bassi. The project was completed
+in a time span of 4 months. We designed the robot from scratch.
+
+# ABSTRACT 
+
+The aim of this project was to build a robot which could track and follow a human for the purpose of object transportation. In modern industry very heavy objects are to be carried around which needs a lot of manual labour, which is both a waste of time and money. Therefore, this robot will find a good application in industry and will be useful in situations where even
+conveyer belts cannot be used.
+
+---
+
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cztFg5TCGaw"></iframe>
+</div> 
+
+---
+
+
+MS Kinect was used to track the human skeleton and the driver user was recoganized using OpenNI library. The Kinect was mounted on a wooden robotic chassis. DC Motors and Arduino board were used to control locomotion of the robot based on position of the human. Gripper Mechanism using
+servo motors was used to pick up objects and place them on the robot body.
+
+---
+
+<img  src="img/posts/final-year/box.png" class="img-responsive img-centered" alt="Robot">
+
+__Robot__
+
+---
+
+> __This project was awarded the second position amongst all departments in Open house 2014 held at PEC University of Technology.__
+
+> __Project poster was presented at Intel Asia Innovation Summit 2014__.

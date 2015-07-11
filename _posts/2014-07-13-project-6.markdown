@@ -1,0 +1,32 @@
+---
+title: Misc. Course Projects
+layout: default
+modal-id: 6
+date: 2014-07-13
+img: more.png
+alt: image-alt
+project-date: 2013-2014
+organization: PEC University of Technology
+category: Robotics, Mechatronics, Computer Vision, Machine Learning
+description: Course Projects
+---
+
+Here I have discussed briefly some of the course projects I had done during my undergraduation studies.
+
+# Natural Interaction using MS Kinect
+
+In this project, I had used MS Kinect to control a PowerPoint presentation. Pretrained human gestures were recoganized and fake keyboard events were generated to control the slides. OpenNI library was used to get data from MS Kinect. This project was written in `C++`.
+
+# Speech controlled surveillance robot
+
+In this project, I had made a speech controlled surveillance robot. `Cmu Sphinx` was used for speech recognition and a network camera was mounted on top of the robot to provide live stream to the user. An android phone was used as network camera and `arduino` was used to control the motors.
+
+# Vehicle License Plate Detection System (Virtual Instrumentation)
+
+This project involved detection of car number plate plate using `Matlab` and `Labview`.After detection of of number plate ,the number was extracted using OCR and the number was compared with a database stored in a excel sheet and if matched a servo motor was actuated to lift a boom barrier and a mail was send to the owner.
+
+# Other Academic Projects -
+
+* Fastest Finger First (Digital Design) 
+* Electric Cannon (Mechatronics)
+* 4 stroke engine (Engineering Design)

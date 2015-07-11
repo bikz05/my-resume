@@ -1,0 +1,45 @@
+# Site settings
+title: Bikramjot Singh Hanzra
+email: bikramjothanzra@cmu.edu
+url: http://www.andrew.cmu.edu/user/bhanzra/
+description: " am pursuing my master’s degree in Robotic Systems Development at Robotics Institute, Carnegie Mellon University. I completed my undergraduate studies from PEC University of Technology, India. My research interests are Robotics, CV, and ML."
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Bikramjot Singh Hanzra
+  location: Location
+  social: Around the Web
+  blog: Blog
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/bikz05
+  - title: github
+    url: http://github.com/bikz05
+  - title: linkedin
+    url: http://in.linkedin.com/in/bikz05
+  - title: envelope
+    url: mailto:bikz.05@gmail.com
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: The Robotics Institute
+  - line: 5000 Forbes Avenue
+  - line: Pittsburgh PA 15213-3890
+
+# Blog content
+blog: 'I blog about Computer Vision at my blog <a target="_blank" href="http://hanzratech.in">HANZRA TECH</a>'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
