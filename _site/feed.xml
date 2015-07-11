@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bikramjot Singh Hanzra</title>
+    <description> am pursuing my master’s degree in Robotic Systems Development at Robotics Institute, Carnegie Mellon University. I completed my undergraduate studies from PEC University of Technology, India. My research interests are Robotics, CV, and ML.</description>
+    <link>http://www.andrew.cmu.edu/user/bhanzra//</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 11 Jul 2015 08:26:32 +0530</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2015 08:26:32 +0530</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Research</title>
+        <description>RESEARCH INTERNSHIP</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0530</pubDate>
+        <link>http://www.andrew.cmu.edu/user/bhanzra//computer%20vision,%20image%20processing/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">http://www.andrew.cmu.edu/user/bhanzra//computer%20vision,%20image%20processing/2014/07/18/project-1/</guid>
+        
+        
+        <category>computer vision, image processing</category>
+        
+      </item>
+    
+      <item>
+        <title>GitHub</title>
+        <description>Open Source Coding</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 +0530</pubDate>
+        <link>http://www.andrew.cmu.edu/user/bhanzra//computer%20vision,%20machine%20learning/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">http://www.andrew.cmu.edu/user/bhanzra//computer%20vision,%20machine%20learning/2014/07/17/project-2/</guid>
+        
+        
+        <category>computer vision, machine learning</category>
+        
+      </item>
+    
+      <item>
+        <title>Robotics Society</title>
+        <description>&lt;i&gt;Robotics Competitions&lt;/i&gt;</description>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 +0530</pubDate>
+        <link>http://www.andrew.cmu.edu/user/bhanzra//robotics,%20image%20processing,%20computer%20vision,%20automation/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">http://www.andrew.cmu.edu/user/bhanzra//robotics,%20image%20processing,%20computer%20vision,%20automation/2014/07/16/project-3/</guid>
+        
+        
+        <category>robotics, image processing, computer vision, automation</category>
+        
+      </item>
+    
+      <item>
+        <title>Final Year Project</title>
+        <description>Final Year Project</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0530</pubDate>
+        <link>http://www.andrew.cmu.edu/user/bhanzra//robotics,%20computer%20vision,%20machine%20learning/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">http://www.andrew.cmu.edu/user/bhanzra//robotics,%20computer%20vision,%20machine%20learning/2014/07/15/project-4/</guid>
+        
+        
+        <category>robotics, computer vision, machine learning</category>
+        
+      </item>
+    
+      <item>
+        <title>&lt;code&gt;ipython notebooks&lt;/code&gt;</title>
+        <description>&lt;code&gt;import this&lt;/code&gt;</description>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 +0530</pubDate>
+        <link>http://www.andrew.cmu.edu/user/bhanzra//ipython,%20computer%20vision,%20machine%20learning/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">http://www.andrew.cmu.edu/user/bhanzra//ipython,%20computer%20vision,%20machine%20learning/2014/07/14/project-5/</guid>
+        
+        
+        <category>ipython, computer vision, machine learning</category>
+        
+      </item>
+    
+      <item>
+        <title>Misc. Course Projects</title>
+        <description>Course Projects</description>
+        <pubDate>Sun, 13 Jul 2014 00:00:00 +0530</pubDate>
+        <link>http://www.andrew.cmu.edu/user/bhanzra//robotics,%20mechatronics,%20computer%20vision,%20machine%20learning/2014/07/13/project-6/</link>
+        <guid isPermaLink="true">http://www.andrew.cmu.edu/user/bhanzra//robotics,%20mechatronics,%20computer%20vision,%20machine%20learning/2014/07/13/project-6/</guid>
+        
+        
+        <category>robotics, mechatronics, computer vision, machine learning</category>
+        
+      </item>
+    
+  </channel>
+</rss>
